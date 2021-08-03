@@ -1,0 +1,67 @@
+.blog-footer{
+    background-color: #EE4248;
+    color:white;
+    height: 50px;
+}
+
+.hat img{
+    width:100%;
+    margin-top: 50px;
+}
+
+.text1{
+    width: 100%;
+    color: rgb(27, 24, 24);
+    position: relative;
+    top: 10%;
+}
+
+.hat2{
+    margin:10%;
+   
+    background-color: #F6F6F6;
+    
+}
+
+.hat2 img{
+    width: 100%;
+}
+
+.popon{
+    color:#EE4248;
+}
+
+.hat3{
+    margin-top:5%;
+    margin-bottom: -20px;
+}
+
+.hat3 img{
+    width: 20%;
+    padding:4px;
+}
+
+.space1{
+    padding: 5%;
+}
+
+.headlogo img {
+    width: 20%;
+}
+
+.navbar-light .navbar-nav .nav-link  {
+    color: rgba(0,0,0,.55);
+    margin-left: 25px;
+}
+
+ .navbar-text {
+    margin-left: 25px;
+    color: rgba(0,0,0,.55);
+}
+
+ .navbar-toggler {
+    position: absolute;
+    left: 80%;
+    color: rgba(0,0,0,.55);
+    border-color: rgba(0,0,0,.1);
+}
