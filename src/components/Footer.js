@@ -9,7 +9,7 @@ function Footer(){
             <div className="container-fluid hat3">
           <Container>
             <Row className='m-4'>
-          <Col className='space1' lg={4} sm={12}><img src='/images/codebeat.svg' alt=''/>
+          <Col className='space1' lg={4} sm={12}><img src='./images/codebeat.svg' alt=''/>
           <br></br>
           <strong>PT Dwidasa Samsara Indonesia</strong>
           <p>Ruko Jalur Sutera 29A No. 53
@@ -26,9 +26,9 @@ Email : community@dwidasa.com</p>
 
 </Col>
     <Col className='space1' lg={4} sm={12}>
-    <img src='/images/dotnet.svg' alt=''/>
-    <img src='/images/coursera.svg' alt=''/>
-    <img src='/images/codio.svg' alt=''/>
+    <img src='./images/dotnet.svg' alt=''/>
+    <img src='./images/coursera.svg' alt=''/>
+    <img src='./images/codio.svg' alt=''/>
  
 
 </Col>

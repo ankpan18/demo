@@ -22,7 +22,7 @@ const Header = (props) => {
   return (
     <div>
       <Navbar color="light" light expand="md">
-        <NavbarBrand href="/"><span className='headlogo'><img src='/images/codebeat.svg' alt=''/></span></NavbarBrand>
+        <NavbarBrand href="/"><span className='headlogo'><img src='./images/codebeat.svg' alt=''/></span></NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
